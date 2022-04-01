@@ -22,3 +22,4 @@ BRIEFLY:
 NOTE:-
           only scraped 3 pages and trained the model with less number of data . So , got accuracy of 99% for training and 67% for testing           set . If we have more data we could get more accuracy. 
         
+Added via terminal
